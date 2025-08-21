@@ -88,7 +88,7 @@ def send_message():
 
     /* 🌈 Rainbow Glow Text */
     .rainbow {
-      font-size: 28px;
+      font-size: 20px;
       font-weight: bold;
       animation: rainbow 3s infinite linear, glow 1s infinite alternate;
     }
